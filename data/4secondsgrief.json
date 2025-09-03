@@ -1,21 +1,21 @@
 {
-    "id": 119752270,
-    "name": "Seasoned Kiwi",
-    "author": "JoeBeSlow",
-    "creators": ["JoeBeSlow"],
-    "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/PK5uCrBEaSQ",
-    "percentToQualify": 56,
+    "id": 125528267,
+    "name": "4 Seconds Grief",
+    "author": "Wiluck",
+    "creators": ["Wiluck"],
+    "verifier": "Wiluck",
+    "verification": "https://cdn.discordapp.com/attachments/1412540921484148900/1412540922335461396/09013.mp4?ex=68b8aabf&is=68b7593f&hm=9e0d54cfebf4203d9949938be5ce72a514bad0db4f3a83b522f641ca9877af18&",
+    "percentToQualify": 70,
     "password": "IDK",
     "records": [
         {
-            "user": "Crovave",
-            "link": "https://youtu.be/tXfDaV8mWQQ",
+            "user": "zSyzygy",
+            "link": "https://www.youtube.com/watch?v=MhNvIP88OfU",
             "percent": 100,
-            "hz": 360
+            "hz": 480
         },
         {      "user": "geo",
-            "link": " https://youtu.be/x941O9dLpzI",
+            "link": " https://youtu.be/1-JtJkXvHLs",
             "percent": 100,
             "hz": 240
         }
