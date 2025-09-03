@@ -1,23 +1,17 @@
 {
-    "id": 119752270,
-    "name": "Seasoned Kiwi",
-    "author": "JoeBeSlow",
-    "creators": ["JoeBeSlow"],
-    "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/PK5uCrBEaSQ",
+    "id": 125479761,
+    "name": "THE gamer challenge",
+    "author": "zSyzygy",
+    "creators": ["zSyzygy","gamer862"],
+    "verifier": "zSyzygy",
+    "verification": "https://www.youtube.com/watch?v=6j-bjU6y1VU",
     "percentToQualify": 56,
-    "password": "IDK",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Crovave",
-            "link": "https://youtu.be/tXfDaV8mWQQ",
+            "user": "geo",
+            "link": "https://youtu.be/Gb_ixQTj2l0",
             "percent": 100,
-            "hz": 360
-        },
-        {      "user": "geo",
-            "link": " https://youtu.be/x941O9dLpzI",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
