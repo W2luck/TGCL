@@ -1,21 +1,16 @@
 {
-    "id": 119752270,
-    "name": "Seasoned Kiwi",
-    "author": "JoeBeSlow",
-    "creators": ["JoeBeSlow"],
-    "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/PK5uCrBEaSQ",
+    "id": 125482241,
+    "name": "Mister Plumpkin",
+    "author": "DrewJourneyy",
+    "creators": ["DrewJourneyy"],
+    "verifier": "DrewJourneyy",
+    "verification": "https://youtu.be/i1VreRFd1E8",
     "percentToQualify": 56,
-    "password": "IDK",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Crovave",
-            "link": "https://youtu.be/tXfDaV8mWQQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {      "user": "geo",
-            "link": " https://youtu.be/x941O9dLpzI",
+            "user": "geo",
+            "link": "https://www.youtube.com/watch?v=L1mHlnbcqBs",
             "percent": 100,
             "hz": 240
         }
