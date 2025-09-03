@@ -1,12 +1,12 @@
 {
-    "id": 119752270,
-    "name": "Seasoned Kiwi",
-    "author": "JoeBeSlow",
-    "creators": ["JoeBeSlow"],
-    "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/PK5uCrBEaSQ",
+    "id": 110144558,
+    "name": "Three Circles",
+    "author": "Quantanium",
+    "creators": ["Quantanium"],
+    "verifier": "Quantanium",
+    "verification": "https://youtu.be/yv-rZa5plrs",
     "percentToQualify": 56,
-    "password": "IDK",
+    "password": "Open To Copy",
     "records": [
         {
             "user": "Crovave",
@@ -15,9 +15,27 @@
             "hz": 360
         },
         {      "user": "geo",
-            "link": " https://youtu.be/x941O9dLpzI",
+            "link": " https://www.youtube.com/watch?v=4U19Y9r_5ws",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Sniper",
+            "link": "https://www.youtube.com/watch?v=6X2p-WHbPGk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wiluck",
+            "link": "https://youtu.be/0kBLNSVePJU",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "DrewJourneyy",
+            "link": "https://youtu.be/ESPdrAp1FVc",
+            "percent": 100,
+            "hz": 480
+        },
     ]
 }
