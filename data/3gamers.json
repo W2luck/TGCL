@@ -1,23 +1,18 @@
 {
-    "id": 119752270,
-    "name": "Seasoned Kiwi",
-    "author": "JoeBeSlow",
-    "creators": ["JoeBeSlow"],
-    "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/PK5uCrBEaSQ",
-    "percentToQualify": 56,
-    "password": "IDK",
+    "id": 125559506,
+    "name": "THE 3 gamers",
+    "author": "TheAmazingHi",
+    "creators": ["TheAmazingHi"],
+    "verifier": "TheAmazingHi",
+    "verification": "https://www.youtube.com/watch?v=ZX65pjPaJ1Y",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Crovave",
+            "user": "geo",
             "link": "https://youtu.be/tXfDaV8mWQQ",
             "percent": 100,
             "hz": 360
-        },
-        {      "user": "geo",
-            "link": " https://youtu.be/x941O9dLpzI",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
