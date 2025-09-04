@@ -1,21 +1,16 @@
 {
     "id": 119752270,
     "name": "Seasoned Kiwi",
-    "author": "JoeBeSlow",
-    "creators": ["JoeBeSlow"],
-    "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/PK5uCrBEaSQ",
-    "percentToQualify": 56,
+    "author": "zSyzygy",
+    "creators": ["zSyzygy","Gamer862"],
+    "verifier": "zSyzygy",
+    "verification": "https://www.youtube.com/watch?v=TegOtFjwmbg",
+    "percentToQualify": 100,
     "password": "IDK",
     "records": [
         {
-            "user": "Crovave",
+            "user": "geo",
             "link": "https://youtu.be/tXfDaV8mWQQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {      "user": "geo",
-            "link": " https://youtu.be/x941O9dLpzI",
             "percent": 100,
             "hz": 240
         }
